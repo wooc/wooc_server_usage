@@ -1,0 +1,52 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: webtrees\n"
+"Report-Msgid-Bugs-To: i18n@webtrees.net\n"
+"POT-Creation-Date: 2011-12-12 10:24+0000\n"
+"PO-Revision-Date: 2011-12-12 11:58+0000\n"
+"Last-Translator: wooc <Unknown>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 "
+"|| n%100>=20) ? 1 : 2;\n"
+"X-Launchpad-Export-Date: 2011-12-12 16:04+0000\n"
+"X-Generator: Launchpad (build 14458)\n"
+"Language: \n"
+"X-Poedit-Language: Polish\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: translate;noop;plural:1,2\n"
+
+#: Server Usage
+msgid "Wooc Server Usage"
+msgstr "Wooc Wykorzystanie serwera"
+
+msgid "Server usage"
+msgstr "Wykorzystanie serwera"
+
+msgid "Allows you to easily check the usage of disk space and database size on the server."
+msgstr "Pozwala w łatwy sposób sprawdzić wykorzystanie przestrzeni dyskowej oraz rozmiar bazy danych na serwerze."
+
+msgid "All trees"
+msgstr "Wszystkie drzewa"
+
+msgid "%s Individuals"
+msgstr "Liczba osób: %s"
+
+msgid "%s Media objects"
+msgstr "Liczba obiektów multimedialnych: %s"
+
+msgid "Your database size is currently %s MB"
+msgstr "Obecny rozmiar bazy danych wynosi %s MB"
+
+msgid "Your media files are currently using %s MB"
+msgstr "Pliki multimedialne obecnie zajmują %s MB"
+
+msgid "Your files excluding media items are currently using %s MB"
+msgstr "Wszystkie pozostałe pliki obecnie zajmują %s MB"
+
+msgid "Total server space used is therefore %s MB"
+msgstr "Całkowita zużyta przestrzeń dyskowa serwera zajmuje %s MB"
